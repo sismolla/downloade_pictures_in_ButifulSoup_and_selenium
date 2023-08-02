@@ -1,4 +1,4 @@
-# downloade_pictures_in_ButifulSou_and_seleniump
+# downloade_pictures_in_ButifulSou_and_selenium
 
 this project will downloade every pictures from 'https://www.shutterstock.com' and save in images directory
 
